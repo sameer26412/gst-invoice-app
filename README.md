@@ -119,15 +119,22 @@ Run the core GST calculation tests with:
 python -m unittest discover -s tests -v
 ```
 
-## Project structure
+## Project Structure
 
-```text
- gst_invoice_app/
- ├── app.py                 # Streamlit UI, SQLite, QR, PDF and translation
- ├── gst_core.py            # GST calculations and INR formatting
- ├── requirements.txt
- ├── .env.example
- ├── .gitignore
- ├── run_windows.bat
- └── data/                  # Created automatically; SQLite database lives here
- ```
+gst-invoice-app/
+├── assets/
+│   ├── demo.gif
+│   ├── dashboard.png
+│   ├── create-invoice.png
+│   └── invoice-preview.png
+├── data/
+│   └── .gitkeep
+├── tests/
+│   └── test_gst_core.py
+├── .env.example
+├── .gitignore
+├── README.md
+├── app.py
+├── gst_core.py
+├── requirements.txt
+└── run_windows.bat
