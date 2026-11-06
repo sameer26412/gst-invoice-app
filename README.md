@@ -11,16 +11,16 @@ GST invoicing workflow.
 ## Application Screenshots
 
 ### Dashboard
-![Creating Invoice](assets/Creating-invoice.png)
+![Creating Invoice](assets/Create-invoice.png)
 
 ### Dashboard
-![Dashboard](Dashboard-invoice.jpg)
+![Dashboard](assets/Dashboard-invoice.jpg)
 
 ### Invoice Status
-![Invoice Status](Invoice-Status.jpg)
+![Invoice Status](assets/Invoice-Status.jpg)
 
 ### Generated Invoice
-![Invoice Preview](generated-invoice.jpg)
+![Invoice Preview](assets/generated-invoice.jpg)
 
 
 
