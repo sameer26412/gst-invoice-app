@@ -2,6 +2,28 @@
 
 A Python-first Streamlit application for creating GST invoices, generating downloadable PDFs, translating invoice labels and line-item descriptions, and recording customer payment preferences through one fixed QR code.
 
+## Application Demo
+
+Watch the application walkthrough to see the complete
+GST invoicing workflow.
+![GST Invoice Generator Demo](assets/demo.gif)
+
+## Application Screenshots
+
+### Dashboard
+![Creating Invoice](assets/Creating-invoice.png)
+
+### Dashboard
+![Dashboard](Dashboard-invoice.jpg)
+
+### Invoice Status
+![Invoice Status](Invoice-Status.jpg)
+
+### Generated Invoice
+![Invoice Preview](generated-invoice.jpg)
+
+
+
 ## What it does
 
 - Creates invoices with line items, HSN/SAC, quantities, unit prices and editable GST rates. Common post-22 September 2025 slabs include 0%, 5%, 18% and 40%; the editable rate field also accepts other notified/special rates when applicable.
